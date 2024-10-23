@@ -4,7 +4,7 @@
 
 ## UMR MARBEC
 
-Welcome to the UMR MARBEC GitHuB organization.
+Welcome to the UMR MARBEC GitHub organization.
 
 ### Training
 
